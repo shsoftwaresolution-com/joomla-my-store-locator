@@ -1,0 +1,9 @@
+dist/
+build/
+vendor/
+node_modules/
+*.env
+.env
+*.zip
+*.tar.gz
+.DS_Store
